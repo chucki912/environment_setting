@@ -20,6 +20,6 @@ cd /
 sudo rm -rf anaconda
 
 # install in virtual environment
-ipython kernel install --user --name 가상환경 --display-name "Python(가상환경)"
 python -m ipykernel install --user
 
+ipython kernel install --user --name 가상환경 --display-name "Python(가상환경)"
