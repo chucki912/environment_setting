@@ -15,4 +15,6 @@ conda install ipykernel
 
 # check
 cd /
+
+# Remove conda environment
 sudo rm -rf anaconda
